@@ -8,7 +8,7 @@ I like to help/work with business people to ship their ideas into the real world
 
 * 🌍  I'm based in Paris
 * ✉️  You can contact me at [naitbelkacemyoussef@gmail.com](mailto:naitbelkacemyoussef@gmail.com)
-* 🚀  I'm currently working on [Digiposte](http://digiposte.fr)
+* 🚀  I'm currently working on [Decathlon](https://www.decathlon.com/)
 
 ### Skills
 
