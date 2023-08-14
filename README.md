@@ -4,7 +4,7 @@ Hi 👋 My name is Youssef NAIT BELKACEM
 Software craftsman
 ------------------
 
-I like to help/work with business people to ship their ideas into the real world. I've worked mostly on backends using Java I had the chance to work also sometimes with nodejs/typescript. I like performance challenges and the philosophy/conversations/practices behind clean code and software craftsmnship
+I like to help/work with business people to ship their ideas into the real world. I've worked mostly on backends using Java I had the chance to work also sometimes with nodejs/typescript. I like refactoring and working on performance challenges and the philosophy/conversations/practices behind clean code and software craftsmnship.
 
 * 🌍  I'm based in Paris
 * ✉️  You can contact me at [naitbelkacemyoussef@gmail.com](mailto:naitbelkacemyoussef@gmail.com)
